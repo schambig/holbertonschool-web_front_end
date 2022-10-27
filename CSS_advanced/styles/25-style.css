@@ -483,7 +483,7 @@ a:active {
     margin-right: auto; 
 }
 
-ul.row{
+ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -495,11 +495,11 @@ ul.row{
     clear: both;
 }
 
-.col-1-3{
+.col-1-3 {
     width: 33.33%;
 }
 
-.col-1-2{
+.col-1-2 {
     width: 50%;
 }
 
@@ -515,7 +515,7 @@ ul.row{
     --button-color: var(--color-white);
 }
 
-.footer-copyright{
+.footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
@@ -525,29 +525,29 @@ ul.row{
     text-align: right;
 }
 
-.footer-address{
+.footer-address {
     color: var(--text-color);
 }
 
-.social-link{
+.social-link {
     display: block;
 }
 
-.social-link > svg{
+.social-link > svg {
     fill: var(--text-color);
 }
 
-.card-services .card-title{
+.card-services .card-title {
     margin: 0;
 }
 
-.card-services a{
+.card-services a {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
-.card-services a:hover{
+.card-services a:hover {
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
