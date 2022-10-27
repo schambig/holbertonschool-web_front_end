@@ -387,19 +387,19 @@ a:active {
     background-color: var(--color-light-grey);
 }
 
-.visually-hidden{
+.visually-hidden {
     display: none;
 }
 
-.card-category{
+.card-category {
     color: var(--color-primary);
 }
 
-.section-header{
+.section-header {
     text-align: var(--section-header-align);
 }
 
-.section-title{
+.section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
@@ -407,7 +407,7 @@ a:active {
     color: var(--section-title-color);
 }
 
-.section-tagline{
+.section-tagline {
     color: var(--color-primary);
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
